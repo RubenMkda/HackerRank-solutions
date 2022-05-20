@@ -16,9 +16,3 @@ def primeCount(n):
     
 
     return count
-
-
-# ---------------------------------------------------
-
-q = 500000000000
-print(primeCount(q))
