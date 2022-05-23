@@ -1,3 +1,5 @@
+#Esto es un contandor de vias por ciudad
+
 def connectingTowns(n, routes):
     a = 1
     mod = 1234567
